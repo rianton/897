@@ -53,8 +53,8 @@ Thanks to @CyberTK @TKR_TEAM\n\
 | Change it to your authToken / your email & password
 */
 const auth = {
-	authToken: 'EpVxGGsMzoDrtkDD5TY6.aEh9bEAORRcBHLTrAIW1bG.dcbtVX2HKmqfa1zqczvIB58ASwp1oE0TvNDRutnXjyY=',
-	certificate: '7cc23596baa3eacf955d8add2245c46348df22b6b0988a12c98e04bce9bcc966',
+	authToken: 'EsYOkQ5GvyMyR9HC9Hq6.za+e5svtVOOkvtLheQuILG.oI7G0fKR0TSqbnLFOGvS1htTnn+0O6K6CgczbGX45HM=',
+	certificate: '7b239a84479429a2a287d1a505d8378770fbed84ce2f21ea2e93fd817cd56246',
 	email: '',
 	password: ''
 }
