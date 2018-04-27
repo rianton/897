@@ -4,13 +4,13 @@ let exec = require('child_process').exec;
 
 var myStaff = [];//Mid numaranı buraya yaz.. Staff
 
-const toLga = ['ubf4b1f23c5c36b4bc6f013c602dc51db'];
+const toLga = ['u67acbba40f5d7983bd60c200e92456e9'];
 	
-const myAdmin = ['ubf4b1f23c5c36b4bc6f013c602dc51db'];//Mid numaranı buraya yaz..  Admin
+const myAdmin = ['u67acbba40f5d7983bd60c200e92456e9'];//Mid numaranı buraya yaz..  Admin
 
 const myAssist = [];//Mid numaranı buraya yaz..  Assist
 
-const myBot = ['u6a66b6b389d27052f7c8ac0bdc2cee7e'];//Mid numaranı buraya yaz.. ADmin
+const myBot = ['u67acbba40f5d7983bd60c200e92456e9'];//Mid numaranı buraya yaz.. ADmin
 var banList = [];//Banned list
 var groupList = new Array();//Group list
 var vx = {};var midnornama,pesane,kickhim;var waitMsg = "no";//DO NOT CHANGE THIS
